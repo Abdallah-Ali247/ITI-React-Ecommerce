@@ -73,4 +73,4 @@ Run the following command in your terminal to clone the repository:
 ```
 ---
 # Technologies Used
-`React`, `Js`, `BootStrab`, `json server`, `HTML`, `CSS`  
+`React`, `Redux`, `Js`, `BootStrab`, `json server`, `HTML`, `CSS`  
