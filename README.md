@@ -70,3 +70,7 @@ Run the following command in your terminal to clone the repository:
 6. json-server --watch db.json --port 5000
 7. cd .. then cd Ecommerce
 8. npm start or npm run dev
+```
+---
+# Technologies Used
+`React`, `Js`, `BootStrab`, `json server`, `HTML`, `CSS`  
