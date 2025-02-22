@@ -2,6 +2,8 @@
 
 ## Project Overview
 
+![alt text](Ecommerce-main/public/images/home.png)
+
 This **Ecommerce Application** is part of the **ITI (Information Technology Institute) Diploma** curriculum. It demonstrates a full-stack e-commerce platform built using modern web development technologies, including React.js, Redux, JSON Server, and React-Bootstrap. The application allows users to browse products, add items to their cart, register/login, and manage orders. Additionally, it includes an admin panel for managing users and products.
 
 ---
@@ -39,6 +41,11 @@ The application provides the following functionalities:
 - **Admin Panel**:
   - Accessible only to users with the `admin` role.
   - Manage users: View, edit, and delete user accounts.
+
+
+![alt text](Ecommerce-main/public/images/admin.png)
+
+
 - **Product Manager**:
   - Accessible only to users with the `admin` or `seller` role.
   - Add new products.
@@ -47,6 +54,8 @@ The application provides the following functionalities:
 ### Order Management
 - Users can place orders from their cart.
 - Sellers can approve pending orders.
+
+![alt text](Ecommerce-main/public/images/seller.png)
 
 ---
 
