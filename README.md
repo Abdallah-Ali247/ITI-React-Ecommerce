@@ -6,6 +6,7 @@
 
 This **Ecommerce Application** is part of the **ITI (Information Technology Institute) Diploma** curriculum. It demonstrates a full-stack e-commerce platform built using modern web development technologies, including React.js, Redux, JSON Server, and React-Bootstrap. The application allows users to browse products, add items to their cart, register/login, and manage orders. Additionally, it includes an admin panel for managing users and products.
 
+### Here is a Video that explain the project [Link](https://drive.google.com/file/d/16nXo4LWxUL9yqMFX3qgi1HaWyGKzYMH1/view?usp=sharing)
 ---
 
 ## Table of Contents
@@ -77,7 +78,7 @@ Run the following command in your terminal to clone the repository:
 4. cd Server
 5. npm install -g json-server
 6. json-server --watch db.json --port 5000
-7. cd .. then cd Ecommerce
+7. cd .. && cd Ecommerce
 8. npm start or npm run dev
 ```
 ---
