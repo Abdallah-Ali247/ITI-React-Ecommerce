@@ -27,6 +27,7 @@ The application provides the following functionalities:
   - View a list of all available products.
   - Filter products by category.
   - Search for products by name.
+
 ![alt text](Ecommerce-main/public/images/products.png)
 
 - **Product Details**:
