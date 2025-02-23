@@ -27,16 +27,28 @@ The application provides the following functionalities:
   - View a list of all available products.
   - Filter products by category.
   - Search for products by name.
+![alt text](Ecommerce-main/public/images/products.png)
+
 - **Product Details**:
   - Click on a product to view detailed information (e.g., name, price, description, image).
 - **Cart Management**:
   - Add products to the cart.
   - Update quantities or remove items from the cart.
   - Proceed to checkout and place an order.
+
+![alt text](Ecommerce-main/public/images/cart.png)
+    
 - **Authentication**:
   - Register as a new user.
+    
+![alt text](Ecommerce-main/public/images/register.png)
+
   - Log in with registered credentials.
+   
+![alt text](Ecommerce-main/public/images/login.png)
+  
   - Log out securely.
+  
 
 ### Admin Features
 - **Admin Panel**:
@@ -52,11 +64,13 @@ The application provides the following functionalities:
   - Add new products.
   - Edit or delete existing products.
 
+![alt text](Ecommerce-main/public/images/seller.png)
+
 ### Order Management
 - Users can place orders from their cart.
 - Sellers can approve pending orders.
 
-![alt text](Ecommerce-main/public/images/seller.png)
+![alt text](Ecommerce-main/public/images/orders.png)
 
 ---
 
